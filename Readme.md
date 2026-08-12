@@ -1,2 +1,2 @@
-# Diplomado redes neuronalles artificiales
+# Diplomado redes neuronales artificiales
 
